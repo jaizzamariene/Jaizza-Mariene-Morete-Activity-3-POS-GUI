@@ -1,0 +1,83 @@
+.label{
+    -fx-text-alignment: center;
+    -fx-font-weight: bold;
+-fx-font-size: 29px;
+-fx-text-fill: black;
+-fx-pref-width: 1033;
+    -fx-pref-height: 43;
+}
+.top{
+    -fx-background-color: FFBFA0;
+}
+.left{
+    -fx-background-color: FFBFA0;
+      -fx-pref-width: 176;
+    -fx-pref-height: 400;
+}
+.right{
+    -fx-background-color: FFBFA0;
+}
+.bottom{
+    -fx-background-color: FFBFA0;
+}
+.btn1{
+     -fx-pref-width: 262;
+    -fx-pref-height: 31;
+    -fx-text-fill: black;
+-fx-font-weight: bold;
+-fx-font-size: 15px;
+}
+.btn2{
+     -fx-pref-width: 262;
+    -fx-pref-height: 31;
+    -fx-text-fill: black;
+-fx-font-weight: bold;
+-fx-font-size: 15px;
+}
+.btn3{
+     -fx-pref-width: 262;
+    -fx-pref-height: 31;
+    -fx-text-fill: black;
+-fx-font-weight: bold;
+-fx-font-size: 15px;
+}
+.btn4{
+     -fx-pref-width: 262;
+    -fx-pref-height: 31;
+    -fx-text-fill: black;
+-fx-font-weight: bold;
+-fx-font-size: 15px;
+}
+.btn1a{
+    -fx-pref-width: 156;
+    -fx-pref-height: 101;
+    -fx-font-weight: bold;
+-fx-font-size: 15px;
+}
+.btn2a{
+    -fx-pref-width: 156;
+    -fx-pref-height: 101;
+    -fx-font-weight: bold;
+-fx-font-size: 15px;
+}
+.sp1{
+    -fx-border-color: black; 
+}
+.sp2{
+     -fx-border-color: black; 
+}
+.sp3{
+    -fx-border-color: black; 
+}
+.sp4{
+    -fx-border-color: black; 
+}
+.sp5{
+    -fx-border-color: black; 
+}
+.sp6{
+    -fx-border-color: black; 
+}
+
+
+
